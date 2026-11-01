@@ -1,0 +1,1069 @@
+{
+  "teacher": {
+    "id": "12004",
+    "prefix": "นาย",
+    "fullName": "ปารเมศ มหิเมือง",
+    "department": "กลุ่มสาระการเรียนรู้วิทยาศาสตร์",
+    "position": "ครู",
+    "role": "admin"
+  },
+  "classrooms": [
+    {
+      "name": "การสื่อสรและการนำเสนอ (IS2)  401",
+      "courseCode": "I30202",
+      "gradeLevel": "ม.4/1",
+      "roomLocation": "",
+      "scheduleTime": "",
+      "scorePlan": {
+        "preMidterm": {
+          "buckets": [
+            {
+              "id": "pre_1",
+              "name": "ช่องที่ 1: แบบฝึกหัดและใบงาน",
+              "maxScore": 10
+            },
+            {
+              "id": "pre_2",
+              "name": "ช่องที่ 2: การทดลองปฏิบัติการ",
+              "maxScore": 10
+            },
+            {
+              "id": "pre_1793531101534",
+              "name": "ช่องที่ 3: งาน/ชิ้นงาน",
+              "maxScore": 10
+            },
+            {
+              "id": "pre_1793531101696",
+              "name": "ช่องที่ 4: งาน/ชิ้นงาน",
+              "maxScore": 10
+            }
+          ],
+          "totalScore": 40
+        },
+        "midterm": {
+          "maxScore": 10
+        },
+        "postMidterm": {
+          "buckets": [
+            {
+              "id": "post_1",
+              "name": "ช่องที่ 1: กิจกรรมสะเต็ม / โครงงาน",
+              "maxScore": 15
+            },
+            {
+              "id": "post_2",
+              "name": "ช่องที่ 2: การสืบค้นและรายงาน",
+              "maxScore": 15
+            },
+            {
+              "id": "post_1793531111864",
+              "name": "ช่องที่ 3: งาน/ชิ้นงาน",
+              "maxScore": 10
+            }
+          ],
+          "totalScore": 40
+        },
+        "final": {
+          "maxScore": 10
+        },
+        "totalScore": 100
+      },
+      "id": "cls_1793531120449_l7xzs",
+      "teacherId": "12004",
+      "teacherName": "นายปารเมศ มหิเมือง",
+      "createdAt": "2026-11-01T11:05:20.449Z"
+    },
+    {
+      "name": "วิทยาศาสตร์โลกและอวกาศ 403",
+      "courseCode": "ว30104",
+      "gradeLevel": "ม.4/3",
+      "roomLocation": "",
+      "scheduleTime": "",
+      "scorePlan": {
+        "preMidterm": {
+          "buckets": [
+            {
+              "id": "pre_1",
+              "name": "ช่องที่ 1",
+              "maxScore": 10
+            },
+            {
+              "id": "pre_2",
+              "name": "ช่องที่ 2",
+              "maxScore": 10
+            },
+            {
+              "id": "pre_1793530961096",
+              "name": "ช่องที่ 3",
+              "maxScore": 5
+            },
+            {
+              "id": "pre_1793530961778",
+              "name": "ช่องที่ 4",
+              "maxScore": 10
+            }
+          ],
+          "totalScore": 35
+        },
+        "midterm": {
+          "maxScore": 15
+        },
+        "postMidterm": {
+          "buckets": [
+            {
+              "id": "post_1",
+              "name": "ช่องที่ 1: กิจกรรมสะเต็ม / โครงงาน",
+              "maxScore": 10
+            },
+            {
+              "id": "post_2",
+              "name": "ช่องที่ 2: การสืบค้นและรายงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793530999779",
+              "name": "ช่องที่ 3: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793531000312",
+              "name": "ช่องที่ 4: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793531000496",
+              "name": "ช่องที่ 5: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793531000648",
+              "name": "ช่องที่ 6: งาน/ชิ้นงาน",
+              "maxScore": 5
+            }
+          ],
+          "totalScore": 35
+        },
+        "final": {
+          "maxScore": 15
+        },
+        "totalScore": 100
+      },
+      "id": "cls_1793531048210_uuuaw",
+      "teacherId": "12004",
+      "teacherName": "นายปารเมศ มหิเมือง",
+      "createdAt": "2026-11-01T11:04:08.210Z"
+    },
+    {
+      "name": "วิทยาศาสตร์โลกและอวกาศ 401",
+      "courseCode": "ว30104",
+      "gradeLevel": "ม.4/1",
+      "roomLocation": "",
+      "scheduleTime": "",
+      "scorePlan": {
+        "preMidterm": {
+          "buckets": [
+            {
+              "id": "pre_1",
+              "name": "ช่องที่ 1",
+              "maxScore": 10
+            },
+            {
+              "id": "pre_2",
+              "name": "ช่องที่ 2",
+              "maxScore": 10
+            },
+            {
+              "id": "pre_1793530961096",
+              "name": "ช่องที่ 3",
+              "maxScore": 5
+            },
+            {
+              "id": "pre_1793530961778",
+              "name": "ช่องที่ 4",
+              "maxScore": 10
+            }
+          ],
+          "totalScore": 35
+        },
+        "midterm": {
+          "maxScore": 15
+        },
+        "postMidterm": {
+          "buckets": [
+            {
+              "id": "post_1",
+              "name": "ช่องที่ 1: กิจกรรมสะเต็ม / โครงงาน",
+              "maxScore": 10
+            },
+            {
+              "id": "post_2",
+              "name": "ช่องที่ 2: การสืบค้นและรายงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793530999779",
+              "name": "ช่องที่ 3: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793531000312",
+              "name": "ช่องที่ 4: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793531000496",
+              "name": "ช่องที่ 5: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793531000648",
+              "name": "ช่องที่ 6: งาน/ชิ้นงาน",
+              "maxScore": 5
+            }
+          ],
+          "totalScore": 35
+        },
+        "final": {
+          "maxScore": 15
+        },
+        "totalScore": 100
+      },
+      "id": "cls_1793531014042_sfon5",
+      "teacherId": "12004",
+      "teacherName": "นายปารเมศ มหิเมือง",
+      "createdAt": "2026-11-01T11:03:34.042Z"
+    },
+    {
+      "name": "วิทยาศาสตร์กายภาพฟิสิกส์ 511",
+      "courseCode": "ว30103",
+      "gradeLevel": "ม.5/11",
+      "roomLocation": "",
+      "scheduleTime": "",
+      "scorePlan": {
+        "preMidterm": {
+          "buckets": [
+            {
+              "id": "pre_1",
+              "name": "ช่องที่ 1: แบบฝึกหัดและใบงาน",
+              "maxScore": 10
+            },
+            {
+              "id": "pre_2",
+              "name": "ช่องที่ 2: การทดลองปฏิบัติการ",
+              "maxScore": 5
+            },
+            {
+              "id": "pre_1793520095776",
+              "name": "ช่องที่ 3: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "pre_1793520096648",
+              "name": "ช่องที่ 4: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "pre_1793520097081",
+              "name": "ช่องที่ 5: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "pre_1793520097364",
+              "name": "ช่องที่ 6: งาน/ชิ้นงาน",
+              "maxScore": 5
+            }
+          ],
+          "totalScore": 35
+        },
+        "midterm": {
+          "maxScore": 15
+        },
+        "postMidterm": {
+          "buckets": [
+            {
+              "id": "post_1",
+              "name": "ช่องที่ 1: กิจกรรมสะเต็ม / โครงงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_2",
+              "name": "ช่องที่ 2: การสืบค้นและรายงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793520130684",
+              "name": "ช่องที่ 3: งาน/ชิ้นงาน",
+              "maxScore": 10
+            },
+            {
+              "id": "post_1793520131565",
+              "name": "ช่องที่ 4: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793520131848",
+              "name": "ช่องที่ 5: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793520132065",
+              "name": "ช่องที่ 6: งาน/ชิ้นงาน",
+              "maxScore": 5
+            }
+          ],
+          "totalScore": 35
+        },
+        "final": {
+          "maxScore": 15
+        },
+        "totalScore": 100
+      },
+      "id": "cls_1793530594656_xqdw7",
+      "teacherId": "12004",
+      "teacherName": "นายปารเมศ มหิเมือง",
+      "createdAt": "2026-11-01T10:56:34.656Z"
+    },
+    {
+      "id": "cls_1793520148564_xt6f9",
+      "name": "วิทยาศาสตร์กายภาพฟิสิกส์ 510",
+      "courseCode": "ว30103",
+      "gradeLevel": "ม.5/10",
+      "roomLocation": "",
+      "scheduleTime": "",
+      "teacherId": "12004",
+      "teacherName": "นายปารเมศ มหิเมือง",
+      "scorePlan": {
+        "preMidterm": {
+          "buckets": [
+            {
+              "id": "pre_1",
+              "name": "ช่องที่ 1: แบบฝึกหัดและใบงาน",
+              "maxScore": 10
+            },
+            {
+              "id": "pre_2",
+              "name": "ช่องที่ 2: การทดลองปฏิบัติการ",
+              "maxScore": 5
+            },
+            {
+              "id": "pre_1793520095776",
+              "name": "ช่องที่ 3: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "pre_1793520096648",
+              "name": "ช่องที่ 4: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "pre_1793520097081",
+              "name": "ช่องที่ 5: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "pre_1793520097364",
+              "name": "ช่องที่ 6: งาน/ชิ้นงาน",
+              "maxScore": 5
+            }
+          ],
+          "totalScore": 35
+        },
+        "midterm": {
+          "maxScore": 15
+        },
+        "postMidterm": {
+          "buckets": [
+            {
+              "id": "post_1",
+              "name": "ช่องที่ 1: กิจกรรมสะเต็ม / โครงงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_2",
+              "name": "ช่องที่ 2: การสืบค้นและรายงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793520130684",
+              "name": "ช่องที่ 3: งาน/ชิ้นงาน",
+              "maxScore": 10
+            },
+            {
+              "id": "post_1793520131565",
+              "name": "ช่องที่ 4: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793520131848",
+              "name": "ช่องที่ 5: งาน/ชิ้นงาน",
+              "maxScore": 5
+            },
+            {
+              "id": "post_1793520132065",
+              "name": "ช่องที่ 6: งาน/ชิ้นงาน",
+              "maxScore": 5
+            }
+          ],
+          "totalScore": 35
+        },
+        "final": {
+          "maxScore": 15
+        },
+        "totalScore": 100
+      },
+      "createdAt": "2026-11-01T08:02:28.564Z"
+    }
+  ],
+  "students": [
+    {
+      "studentId": "18770",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 1,
+      "fullName": "นายวรพงศ์  สุขดี",
+      "id": "std_1793531442226_0_x64u",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "18801",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 2,
+      "fullName": "นายชญานินท์  แก้วไทรเกิด",
+      "id": "std_1793531442226_1_m359",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20541",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 3,
+      "fullName": "นายณัฐพงศ์  เครือทอง",
+      "id": "std_1793531442226_2_efc5",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20542",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 4,
+      "fullName": "นายณํฐพร  อารีชาติ",
+      "id": "std_1793531442226_3_k36x",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20543",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 5,
+      "fullName": "นายณัฐภัทร  พงษ์พานิช",
+      "id": "std_1793531442226_4_ypet",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20544",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 6,
+      "fullName": "นายธนกร  ทิมบ่อแร่",
+      "id": "std_1793531442226_5_9szn",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20545",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 7,
+      "fullName": "นายปัณณ์พัฒน์  วอแพง",
+      "id": "std_1793531442226_6_eota",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20568",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 8,
+      "fullName": "นายธันยวิชญ์  เข็มวงษ์",
+      "id": "std_1793531442226_7_cd4b",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "18738",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 9,
+      "fullName": "นางสาวกัญญารัตน์  บุตรศรี",
+      "id": "std_1793531442226_8_a2yz",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "18740",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 10,
+      "fullName": "นางสาวจีระพัฒน์  ประคองเก็บ",
+      "id": "std_1793531442226_9_stw7",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "18744",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 11,
+      "fullName": "นางสาวณัฐปภัสร์  เพ็งสลุง",
+      "id": "std_1793531442226_10_9urm",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "18751",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 12,
+      "fullName": "นางสาวพฤกษา  แซ่บุญ",
+      "id": "std_1793531442226_11_jru9",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "18753",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 13,
+      "fullName": "นางสาวพิชามญชุ์  ผุดผ่อง",
+      "id": "std_1793531442226_12_7a3g",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "18757",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 14,
+      "fullName": "นางสาววรรณวิษา  วิชัยแสง",
+      "id": "std_1793531442226_13_vza5",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "19809",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 15,
+      "fullName": "นางสาวกรวรรณ  ยั่งยืน",
+      "id": "std_1793531442226_14_e6ek",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20546",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 16,
+      "fullName": "นางสาวกมลรัตน์  คำก้อน",
+      "id": "std_1793531442226_15_6fy9",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20547",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 17,
+      "fullName": "นางสาวกัลยกร  ปัญญาวรพงศ์",
+      "id": "std_1793531442226_16_d0wv",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20548",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 18,
+      "fullName": "นางสาวกุลปรียา  จสุพงษ์",
+      "id": "std_1793531442226_17_1jjw",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20549",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 19,
+      "fullName": "นางสาวคุณาภรณ์  เอกนาวากิจ",
+      "id": "std_1793531442226_18_27lh",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20550",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 20,
+      "fullName": "นางสาวจิราพร  หมู่สะแก",
+      "id": "std_1793531442226_19_so15",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20551",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 21,
+      "fullName": "นางสาวชัญญานุช  กลิ่นเย็น",
+      "id": "std_1793531442226_20_qfk3",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20552",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 22,
+      "fullName": "นางสาวฐิติรัตน์  เพ็งมณี",
+      "id": "std_1793531442226_21_9yyq",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20553",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 23,
+      "fullName": "นางสาวณภัสสร  เกตุคง",
+      "id": "std_1793531442226_22_xjme",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20554",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 24,
+      "fullName": "นางสาวณรินทร์ตา  ชินประสพชัย",
+      "id": "std_1793531442226_23_ojau",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20555",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 25,
+      "fullName": "นางสาวณัฐธิดา  อาษาสุข",
+      "id": "std_1793531442226_24_3hhw",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20556",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 26,
+      "fullName": "นางสาวปิยะฉัตร  บุ่งแก้ว",
+      "id": "std_1793531442226_25_asym",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20557",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 27,
+      "fullName": "นางสาวภูริชญา  คงสินธุ์",
+      "id": "std_1793531442226_26_346d",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20558",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 28,
+      "fullName": "นางสาวมณิสรา  สิติสิโร",
+      "id": "std_1793531442226_27_y9nc",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20559",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 29,
+      "fullName": "นางสาวยุวรินธร  มงคลนำ",
+      "id": "std_1793531442226_28_42rr",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20560",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 30,
+      "fullName": "นางสาวรัญชิดา  จันทร์ที",
+      "id": "std_1793531442226_29_p1wr",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20562",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 31,
+      "fullName": "นางสาววริศรา  ชมภูวงษ์",
+      "id": "std_1793531442226_30_rucb",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20563",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 32,
+      "fullName": "นางสาวศุภามาศ  วาจาเสนาะ",
+      "id": "std_1793531442226_31_kdwy",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20564",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 33,
+      "fullName": "นางสาวสิรยา  เหลี่ยวชูพงศ์",
+      "id": "std_1793531442226_32_22av",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20565",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 34,
+      "fullName": "นางสาวสุภาพร  สุภาเทียน",
+      "id": "std_1793531442226_33_s6z9",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20566",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 35,
+      "fullName": "นางสาวหทัยชนก  ทองบุตร",
+      "id": "std_1793531442226_34_bmso",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "20567",
+      "classroomId": "cls_1793531120449_l7xzs",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 36,
+      "fullName": "นางสาวอภัสนันท์  ช่องบุญ",
+      "id": "std_1793531442226_35_c1ee",
+      "createdAt": "2026-11-01T11:10:42.226Z"
+    },
+    {
+      "studentId": "18770",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 1,
+      "fullName": "นายวรพงศ์  สุขดี",
+      "id": "std_1793542845225_0_y3su",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "18801",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 2,
+      "fullName": "นายชญานินท์  แก้วไทรเกิด",
+      "id": "std_1793542845225_1_j7d2",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20541",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 3,
+      "fullName": "นายณัฐพงศ์  เครือทอง",
+      "id": "std_1793542845225_2_kxiy",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20542",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 4,
+      "fullName": "นายณํฐพร  อารีชาติ",
+      "id": "std_1793542845225_3_x7z3",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20543",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 5,
+      "fullName": "นายณัฐภัทร  พงษ์พานิช",
+      "id": "std_1793542845225_4_9g5l",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20544",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 6,
+      "fullName": "นายธนกร  ทิมบ่อแร่",
+      "id": "std_1793542845225_5_2m8g",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20545",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 7,
+      "fullName": "นายปัณณ์พัฒน์  วอแพง",
+      "id": "std_1793542845225_6_nuxx",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20568",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 8,
+      "fullName": "นายธันยวิชญ์  เข็มวงษ์",
+      "id": "std_1793542845225_7_9nfm",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "18738",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 9,
+      "fullName": "นางสาวกัญญารัตน์  บุตรศรี",
+      "id": "std_1793542845225_8_kj8h",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "18740",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 10,
+      "fullName": "นางสาวจีระพัฒน์  ประคองเก็บ",
+      "id": "std_1793542845225_9_jnv9",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "18744",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 11,
+      "fullName": "นางสาวณัฐปภัสร์  เพ็งสลุง",
+      "id": "std_1793542845225_10_28o0",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "18751",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 12,
+      "fullName": "นางสาวพฤกษา  แซ่บุญ",
+      "id": "std_1793542845225_11_83nc",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "18753",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 13,
+      "fullName": "นางสาวพิชามญชุ์  ผุดผ่อง",
+      "id": "std_1793542845225_12_0036",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "18757",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 14,
+      "fullName": "นางสาววรรณวิษา  วิชัยแสง",
+      "id": "std_1793542845225_13_zyjr",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "19809",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 15,
+      "fullName": "นางสาวกรวรรณ  ยั่งยืน",
+      "id": "std_1793542845225_14_sny5",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20546",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 16,
+      "fullName": "นางสาวกมลรัตน์  คำก้อน",
+      "id": "std_1793542845225_15_ojnb",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20547",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 17,
+      "fullName": "นางสาวกัลยกร  ปัญญาวรพงศ์",
+      "id": "std_1793542845225_16_53do",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20548",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 18,
+      "fullName": "นางสาวกุลปรียา  จสุพงษ์",
+      "id": "std_1793542845225_17_ra4q",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20549",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 19,
+      "fullName": "นางสาวคุณาภรณ์  เอกนาวากิจ",
+      "id": "std_1793542845225_18_bp75",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20550",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 20,
+      "fullName": "นางสาวจิราพร  หมู่สะแก",
+      "id": "std_1793542845225_19_61hx",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20551",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 21,
+      "fullName": "นางสาวชัญญานุช  กลิ่นเย็น",
+      "id": "std_1793542845225_20_b39k",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20552",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 22,
+      "fullName": "นางสาวฐิติรัตน์  เพ็งมณี",
+      "id": "std_1793542845225_21_n578",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20553",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 23,
+      "fullName": "นางสาวณภัสสร  เกตุคง",
+      "id": "std_1793542845225_22_gzxz",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20554",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 24,
+      "fullName": "นางสาวณรินทร์ตา  ชินประสพชัย",
+      "id": "std_1793542845225_23_hr22",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20555",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 25,
+      "fullName": "นางสาวณัฐธิดา  อาษาสุข",
+      "id": "std_1793542845225_24_9rap",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20556",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 26,
+      "fullName": "นางสาวปิยะฉัตร  บุ่งแก้ว",
+      "id": "std_1793542845225_25_afjo",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20557",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 27,
+      "fullName": "นางสาวภูริชญา  คงสินธุ์",
+      "id": "std_1793542845225_26_9k24",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20558",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 28,
+      "fullName": "นางสาวมณิสรา  สิติสิโร",
+      "id": "std_1793542845225_27_5s4a",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20559",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 29,
+      "fullName": "นางสาวยุวรินธร  มงคลนำ",
+      "id": "std_1793542845225_28_1dcm",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20560",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 30,
+      "fullName": "นางสาวรัญชิดา  จันทร์ที",
+      "id": "std_1793542845225_29_0wce",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20562",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 31,
+      "fullName": "นางสาววริศรา  ชมภูวงษ์",
+      "id": "std_1793542845225_30_bsku",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20563",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 32,
+      "fullName": "นางสาวศุภามาศ  วาจาเสนาะ",
+      "id": "std_1793542845225_31_ynwt",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20564",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 33,
+      "fullName": "นางสาวสิรยา  เหลี่ยวชูพงศ์",
+      "id": "std_1793542845225_32_xqk4",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20565",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 34,
+      "fullName": "นางสาวสุภาพร  สุภาเทียน",
+      "id": "std_1793542845225_33_cy1w",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20566",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 35,
+      "fullName": "นางสาวหทัยชนก  ทองบุตร",
+      "id": "std_1793542845225_34_t5uk",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    },
+    {
+      "studentId": "20567",
+      "classroomId": "cls_1793531014042_sfon5",
+      "classRoomName": "ม.4/1",
+      "rollNumber": 36,
+      "fullName": "นางสาวอภัสนันท์  ช่องบุญ",
+      "id": "std_1793542845225_35_7eck",
+      "createdAt": "2026-11-01T14:20:45.224Z"
+    }
+  ],
+  "assignments": [],
+  "submissions": []
+}
